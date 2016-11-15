@@ -18,7 +18,7 @@ My name is Marco Sacristão, I'm a 23 year old computer engineering student
 
 ## Personal Projects
 
-I've development some [personal projects (Github Page, under construction)](https://github.com/marcosacrista) from bots to data parsers and pathfinding simulations.
+I've development some [personal projects (Github Page, under construction)](https://github.com/marcosacristao) from bots to data parsers and pathfinding simulations.
 
 ## My (current) skillset
 Please not that order on which the items on this list appear do not represent my current understanding of the technology I'm refering to.
